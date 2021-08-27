@@ -22,9 +22,9 @@ Team Members: Mario, Mohamed, Pamela, & Qian
 
         Map Code (JS/Map html): Map folder
         
-        Chart Code( JS/ Chart html): Chart folder
+        Chart Code ( JS/ Chart html): Chart folder
         
-        Main html: Index.htm
+        Main HTML: Index.html
         
 •	Github.io: Used to deploy the final package to the cloud
 
